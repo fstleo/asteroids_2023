@@ -1,0 +1,21 @@
+{
+    "name": "GameScopeBootstrap",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5799d46cc80e80a4fba44d040c23ee65",
+        "GUID:b0214a6008ed146ff8f122a6a9c2f6cc",
+        "GUID:cbb38a717b2c42389b3e8e6547b66432",
+        "GUID:2d6dcd05eb0c483aa16af74a88ff6e00",
+        "GUID:5926cd35f385a6e40a702bc22ea7a72f",
+        "GUID:905ef6f23a3a4044b8de0feb8bbcebf0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Enemies",
+    "rootNamespace": "Asteroids",
+    "references": [
+        "GUID:faa62681425b499fa0eff94605c7637e",
+        "GUID:ed837b2b6ffbab242a1a4b9d7d92adcb",
+        "GUID:cbae15ac75054f16984e55cca46bf6ef",
+        "GUID:b0214a6008ed146ff8f122a6a9c2f6cc",
+        "GUID:cbb38a717b2c42389b3e8e6547b66432",
+        "GUID:cd25cb522eeaa87489f9ef9f4eaa1ab3",
+        "GUID:5799d46cc80e80a4fba44d040c23ee65",
+        "GUID:9c10d169e6524f04ea77b2c891f7cabc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

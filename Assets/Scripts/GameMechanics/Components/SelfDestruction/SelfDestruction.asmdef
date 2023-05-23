@@ -1,0 +1,18 @@
+{
+    "name": "SelfDestruction",
+    "rootNamespace": "Asteroids",
+    "references": [
+        "GUID:cbb38a717b2c42389b3e8e6547b66432",
+        "GUID:faa62681425b499fa0eff94605c7637e",
+        "GUID:cbae15ac75054f16984e55cca46bf6ef"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

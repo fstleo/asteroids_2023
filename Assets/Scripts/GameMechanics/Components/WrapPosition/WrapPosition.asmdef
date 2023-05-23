@@ -1,0 +1,20 @@
+{
+    "name": "WrapPosition",
+    "rootNamespace": "",
+    "references": [
+        "GUID:faa62681425b499fa0eff94605c7637e",
+        "GUID:cbb38a717b2c42389b3e8e6547b66432",
+        "GUID:905ef6f23a3a4044b8de0feb8bbcebf0",
+        "GUID:cbae15ac75054f16984e55cca46bf6ef",
+        "GUID:9c10d169e6524f04ea77b2c891f7cabc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Player
+  m_EditorClassIdentifier: 
+  m_GroupName: Player
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8a2fd2d53c3dd734886881e4cc4a1b14
+  m_SerializeEntries:
+  - m_GUID: 3e46f76ec21ecd94ab6b2262a4ab65ce
+    m_Address: Player
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e00dd6a0d6490a348b88f6724d8a0f23
+    m_Address: Player_Death
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e25aefb73a34cb44b579bded7abd8d0
+    m_Address: Player_Projectile
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e47aedff9a6490847ae4e8c599f85ec3
+    m_Address: Player_Projectile_Death
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 8999012005b150645ad08bdd1a084c06, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9f1b217209dfaa3449f21533985f0fa5, type: 2}
+    - {fileID: 11400000, guid: 368c652ffb5e5fc4ab85e0fee5c9a55a, type: 2}

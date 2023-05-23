@@ -1,0 +1,18 @@
+{
+    "name": "Moving",
+    "rootNamespace": "Asteroids",
+    "references": [
+        "GUID:faa62681425b499fa0eff94605c7637e",
+        "GUID:cbae15ac75054f16984e55cca46bf6ef",
+        "GUID:9c10d169e6524f04ea77b2c891f7cabc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
